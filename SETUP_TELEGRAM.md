@@ -25,8 +25,8 @@ Open `fileguard_telegram.py` and edit these 3 lines at the top:
 
 ```python
 TELEGRAM_TOKEN   = "1234567890:ABCdefGHIjklMNOpqrSTUvwxYZ"  # ← paste your token
-TELEGRAM_CHAT_ID = "987654321"                                # ← paste your chat ID
-DEVICE_NAME      = "ZERO_BOOK_13"                              # ← give your PC a name
+TELEGRAM_CHAT_ID = "00000000000"                                # ← paste your chat ID
+DEVICE_NAME      = "Device Name"                              # ← give your PC a name
 ```
 
 ---
